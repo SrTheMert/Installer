@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.hizliresim.com/rlogmsn.jpg" width="400" height="400">
+  <img src="https://i.hizliresim.com/18kmwib.jpeg" width="400" height="400">
   <h1>🇹🇷 Lavan UserBot 🇺🇲</h1>
 </div>
 <p align="center">
